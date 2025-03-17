@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-🚀 **Live Demo:** [View Portfolio](https://personal-portfolio-ten-blush.vercel.app/)
+🚀 **Live Demo:** [View Portfolio]([https://personal-portfolio-ten-blush.vercel.app/](https://personal-portfolio-gmhyib8gp-atharva-joshis-projects-e43265b6.vercel.app/#projects))
 
 This repository contains a beautiful, responsive personal portfolio built using **React**, **Vite**, and **TailwindCSS**. The project showcases modern web development techniques including smooth animations, responsive layouts, and interactive UI components.
 
